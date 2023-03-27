@@ -6,6 +6,7 @@
 ## Iniciando a aplicação
 
 - As configurações de conexão com o banco estão no arquivo .env
+- Para criar as tabelas via migration rodar o comando `php artisan migrate`
 - É necessário rodar 2 comandos para executar a aplicação, `npm run dev` e `php artisan serve`
 - Abra http://127.0.0.1:8000/ no navegador para iniciar a aplicação
 
